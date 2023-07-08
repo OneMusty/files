@@ -139,9 +139,9 @@
     },
     {
         "game": "NBA Jam",
-        "gameroot": "https://files-aiw.pages.dev/nj/",
+        "gameroot": "https://files-aiw.pages.dev/nj",
         "gamefile": "https://files-aiw.pages.dev/index.html",
-        "gameicon": "https://files-aiw.pages.dev/nj/gameicon.png"
+        "gameicon": "gameicon.png"
     },
     {
         "game": "Gun Mayhem 2 More Mayhem",
