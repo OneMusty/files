@@ -1,11 +1,5 @@
 [
     {
-        "game": "Subway Surfers",
-        "gameroot": "/Subway/",
-        "gamefile": "index.html",
-        "gameicon": "gameicon.png"
-    },
-    {
         "game": "Slope",
         "gameroot": "/Slope/",
         "gamefile": "index.html",
@@ -112,12 +106,6 @@
         "gameroot": "/snak/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
-    },
-    {
-        "game": "Baldi's Basics",
-        "gameroot": "/bald/",
-        "gamefile": "index.html",
-        "gameicon": "gameicon.webp"
     },
     {
         "game": "Tic-Tac-Toe",
