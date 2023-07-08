@@ -1,445 +1,445 @@
 [
     {
         "game": "Subway Surfers",
-        "gameroot": "/files/Subway/",
+        "gameroot": "/Subway/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Slope",
-        "gameroot": "/files/Slope/",
+        "gameroot": "/Slope/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpeg"
     },
     {
         "game": "Retro Bowl",
-        "gameroot": "/files/Retro/",
+        "gameroot": "/Retro/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "New Super Mario Brothers Online",
-        "gameroot": "/files/NSMB/",
+        "gameroot": "/NSMB/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Friday Night Funkin",
-        "gameroot": "/files/Friday/",
+        "gameroot": "/Friday/",
         "gamefile": "index.html",
         "gameicon": "gameicon.gif"
     },
     {
         "game": "Cookie Clicker",
-        "gameroot": "/files/Cookie/",
+        "gameroot": "/Cookie/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "OvO",
-        "gameroot": "/files/0v0/",
+        "gameroot": "/0v0/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Backrooms",
-        "gameroot": "/files/Back/",
+        "gameroot": "/Back/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Backrooms 2D",
-        "gameroot": "/files/br2d/",
+        "gameroot": "/br2d/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Adventure with Anxiety",
-        "gameroot": "/files/anxiety/",
+        "gameroot": "/anxiety/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "We Become What We Behold",
-        "gameroot": "/files/wbwwb/",
+        "gameroot": "/wbwwb/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "2048",
-        "gameroot": "/files/20/",
+        "gameroot": "/20/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Gura Tambourine",
-        "gameroot": "/files/gura/",
+        "gameroot": "/gura/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Bacon May Die",
-        "gameroot": "/files/bacon/",
+        "gameroot": "/bacon/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Iron Snout",
-        "gameroot": "/files/is/",
+        "gameroot": "/is/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "P.Craft",
-        "gameroot": "/files/pcraf/",
+        "gameroot": "/pcraf/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "1v1.lol",
-        "gameroot": "/files/lol/",
+        "gameroot": "/lol/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Guess the Number Game",
-        "gameroot": "/files/GTN/",
+        "gameroot": "/GTN/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Snake",
-        "gameroot": "/files/snak/",
+        "gameroot": "/snak/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Baldi's Basics",
-        "gameroot": "/files/bald/",
+        "gameroot": "/bald/",
         "gamefile": "index.html",
         "gameicon": "gameicon.webp"
     },
     {
         "game": "Tic-Tac-Toe",
-        "gameroot": "/files/tic/",
+        "gameroot": "/tic/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Rock Paper Scissors",
-        "gameroot": "/files/rps/",
+        "gameroot": "/rps/",
         "gamefile": "index.html",
         "gameicon": "gameicon.webp"
     },
     {
         "game": "territorial.io",
-        "gameroot": "/files/ter/",
+        "gameroot": "/ter/",
         "gamefile": "index.html",
         "gameicon": "gameicon.webp"
     },
     {
         "game": "Paper.io 2",
-        "gameroot": "/files/paper2/",
+        "gameroot": "/paper2/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jfif"
     },
     {
         "game": "Paper.io 3D",
-        "gameroot": "/files/paper3/",
+        "gameroot": "/paper3/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "NBA Jam",
-        "gameroot": "/files/nj/",
+        "gameroot": "/nj/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Gun Mayhem 2 More Mayhem",
-        "gameroot": "/files/gm2/",
+        "gameroot": "/gm2/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Gun Mayhem",
-        "gameroot": "/files/gm/",
+        "gameroot": "/gm/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Fancy Pants Adventures",
-        "gameroot": "/files/fp/",
+        "gameroot": "/fp/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "The Fancy Pants Adventure World 2",
-        "gameroot": "/files/fp2/",
+        "gameroot": "/fp2/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Drive Mad",
-        "gameroot": "/files/Drive/",
+        "gameroot": "/Drive/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Roblox - Now.gg",
-        "gameroot": "/files/rx/",
+        "gameroot": "/rx/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Plants VS Zombies",
-        "gameroot": "/files/pvz/",
+        "gameroot": "/pvz/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Geometry Dash",
-        "gameroot": "/files/gd/",
+        "gameroot": "/gd/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Terraria",
-        "gameroot": "/files/t/",
+        "gameroot": "/t/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Getting over it",
-        "gameroot": "/files/goi/",
+        "gameroot": "/goi/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Paper Minecraft",
-        "gameroot": "/files/pm/",
+        "gameroot": "/pm/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Moto x3m",
-        "gameroot": "/files/m/",
+        "gameroot": "/m/",
         "gamefile": "index.html",
         "gameicon": "splash.jpg"
     },
     {
         "game": "Moto x3m - Winter",
-        "gameroot": "/files/mw/",
+        "gameroot": "/mw/",
         "gamefile": "index.html",
         "gameicon": "download.jpeg"
     },
     {
         "game": "Moto x3m - Spooky",
-        "gameroot": "/files/ms/",
+        "gameroot": "/ms/",
         "gamefile": "index.html",
         "gameicon": "splash.jpeg"
     },
     {
         "game": "Moto x3m - Pool Party",
-        "gameroot": "/files/mp/",
+        "gameroot": "/mp/",
         "gamefile": "index.html",
         "gameicon": "splash.jpg"
     },
     {
         "game": "Vex 6",
-        "gameroot": "/files/v6/",
+        "gameroot": "/v6/",
         "gamefile": "index.html",
         "gameicon": "icon.png"
     },
     {
         "game": "Vex 7",
-        "gameroot": "/files/v7/",
+        "gameroot": "/v7/",
         "gamefile": "index.html",
         "gameicon": "icon.png"
     },
     {
         "game": "Among Us",
-        "gameroot": "/files/au/",
+        "gameroot": "/au/",
         "gamefile": "index.html",
         "gameicon": "game.jpg"
     },
     {
         "game": "Toss the Turtle",
-        "gameroot": "/files/ttt/",
+        "gameroot": "/ttt/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Learn to Fly",
-        "gameroot": "/files/ltf/",
+        "gameroot": "/ltf/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Learn to Fly 2",
-        "gameroot": "/files/ltf2/",
+        "gameroot": "/ltf2/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Doge Miner",
-        "gameroot": "/files/dogem/",
+        "gameroot": "/dogem/",
         "gamefile": "index.html",
         "gameicon": "game.png"
     },
     {
         "game": "Trimps",
-        "gameroot": "/files/tr/",
+        "gameroot": "/tr/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Basket Random",
-        "gameroot": "/files/br/",
+        "gameroot": "/br/",
         "gamefile": "index.html",
         "gameicon": "splash.jpeg"
     },
     {
         "game": "Impossible Quiz",
-        "gameroot": "/files/iq/",
+        "gameroot": "/iq/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Rooftop Snipers",
-        "gameroot": "/files/rs/",
+        "gameroot": "/rs/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Getaway Shootout",
-        "gameroot": "/files/gs/",
+        "gameroot": "/gs/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Basketball Stars",
-        "gameroot": "/files/bs/",
+        "gameroot": "/bs/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Papas Pizzeria",
-        "gameroot": "/files/pp/",
+        "gameroot": "/pp/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Funny Shooter 2",
-        "gameroot": "/files/fs2/",
+        "gameroot": "/fs2/",
         "gamefile": "index.html",
         "gameicon": "logo.png"
     },
     {
         "game": "Happy Wheels",
-        "gameroot": "/files/hw/",
+        "gameroot": "/hw/",
         "gamefile": "index.html",
         "gameicon": "b.png"
     },
     {
         "game": "Raft Wars",
-        "gameroot": "/files/rw/",
+        "gameroot": "/rw/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },    
     {
          "game": "BitCoin Clicker",
-        "gameroot": "/files/bc/",
+        "gameroot": "/bc/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Idle Breakout",
-       "gameroot": "/files/ib/",
+       "gameroot": "/ib/",
        "gamefile": "index.html",
        "gameicon": "gameicon.png"
    },
    {
         "game": "Stick Man Hook",
-        "gameroot": "/files/smh/",
+        "gameroot": "/smh/",
         "gamefile": "index.html",
         "gameicon": "unnamed.jpg"
     },
     {
         "game": "Tiny Fishing",
-        "gameroot": "/files/tf/",
+        "gameroot": "/tf/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Tunnel Rush",
-        "gameroot": "/files/trush/",
+        "gameroot": "/trush/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Raft Wars 2",
-        "gameroot": "/files/rw2/",
+        "gameroot": "/rw2/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Elastic Face",
-        "gameroot": "/files/elastic/",
+        "gameroot": "/elastic/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Avatar Arena",
-        "gameroot": "/files/aa/",
+        "gameroot": "/aa/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Dodge",
-        "gameroot": "/files/dodge/",
+        "gameroot": "/dodge/",
         "gamefile": "index.html",
         "gameicon": "dodge.png"
     },
     {
         "game": "Tetris",
-        "gameroot": "/files/tet/",
+        "gameroot": "/tet/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Bitlife",
-        "gameroot": "/files/bl/",
+        "gameroot": "/bl/",
         "gamefile": "index.html",
         "gameicon": "logo.png"
     },
     {
         "game": "Duck Life",
-        "gameroot": "/files/dl1/",
+        "gameroot": "/dl1/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Duck Life 2",
-        "gameroot": "/files/dl2/",
+        "gameroot": "/dl2/",
         "gamefile": "index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Nut Simulator",
-        "gameroot": "/files/ns/",
+        "gameroot": "/ns/",
         "gamefile": "index.html",
         "gameicon": "icon.png"
     },
     {
         "game": "Algebra Jump",
-        "gameroot": "/files/aj/",
+        "gameroot": "/aj/",
         "gamefile": "index.html",
         "gameicon": "roblox.gif"
     },
     {
         "game": "Doodle Jump",
-        "gameroot": "/files/dj/",
+        "gameroot": "/dj/",
         "gamefile": "index.html",
         "gameicon": "gameicon.png"
     }
