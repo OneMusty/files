@@ -90,12 +90,6 @@
         "gameicon": "gameicon.png"
     },
     {
-        "game": "1v1.lol",
-        "gameroot": "https://files-aiw.pages.dev/lol/",
-        "gamefile": "https://files-aiw.pages.dev/index.html",
-        "gameicon": "gameicon.png"
-    },
-    {
         "game": "Guess the Number Game",
         "gameroot": "https://files-aiw.pages.dev/GTN/",
         "gamefile": "https://files-aiw.pages.dev/index.html",
@@ -316,12 +310,6 @@
         "gameroot": "https://files-aiw.pages.dev/pp/",
         "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
-    },
-    {
-        "game": "Funny Shooter 2",
-        "gameroot": "https://files-aiw.pages.dev/fs2/",
-        "gamefile": "https://files-aiw.pages.dev/index.html",
-        "gameicon": "logo.png"
     },
     {
         "game": "Happy Wheels",
