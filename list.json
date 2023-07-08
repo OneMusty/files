@@ -42,12 +42,6 @@
         "gameicon": "gameicon.png"
     },
     {
-        "game": "Backrooms 2D",
-        "gameroot": "https://files-aiw.pages.dev/br2d/",
-        "gamefile": "https://files-aiw.pages.dev/index.html",
-        "gameicon": "gameicon.png"
-    },
-    {
         "game": "Adventure with Anxiety",
         "gameroot": "https://files-aiw.pages.dev/anxiety/",
         "gamefile": "https://files-aiw.pages.dev/index.html",
