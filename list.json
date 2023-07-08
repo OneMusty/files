@@ -1,140 +1,140 @@
 [
     {
         "game": "Slope",
-        "gameroot": "/Slope/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/Slope/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpeg"
     },
     {
         "game": "Retro Bowl",
-        "gameroot": "/Retro/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/Retro/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "New Super Mario Brothers Online",
-        "gameroot": "/NSMB/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/NSMB/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Friday Night Funkin",
-        "gameroot": "/Friday/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/Friday/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.gif"
     },
     {
         "game": "Cookie Clicker",
-        "gameroot": "/Cookie/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/Cookie/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "OvO",
-        "gameroot": "/0v0/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/0v0/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Backrooms",
-        "gameroot": "/Back/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/Back/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Backrooms 2D",
-        "gameroot": "/br2d/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/br2d/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Adventure with Anxiety",
-        "gameroot": "/anxiety/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/anxiety/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "We Become What We Behold",
-        "gameroot": "/wbwwb/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/wbwwb/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "2048",
-        "gameroot": "/20/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/20/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Gura Tambourine",
-        "gameroot": "/gura/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/gura/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Bacon May Die",
-        "gameroot": "/bacon/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/bacon/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Iron Snout",
-        "gameroot": "/is/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/is/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "P.Craft",
-        "gameroot": "/pcraf/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/pcraf/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "1v1.lol",
-        "gameroot": "/lol/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/lol/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Guess the Number Game",
-        "gameroot": "/GTN/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/GTN/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Snake",
-        "gameroot": "/snak/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/snak/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Tic-Tac-Toe",
-        "gameroot": "/tic/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/tic/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Rock Paper Scissors",
-        "gameroot": "/rps/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/rps/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.webp"
     },
     {
         "game": "territorial.io",
-        "gameroot": "/ter/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/ter/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.webp"
     },
     {
         "game": "Paper.io 2",
-        "gameroot": "/paper2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/paper2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jfif"
     },
     {
         "game": "Paper.io 3D",
-        "gameroot": "/paper3/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/paper3/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
@@ -145,290 +145,290 @@
     },
     {
         "game": "Gun Mayhem 2 More Mayhem",
-        "gameroot": "/gm2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/gm2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Gun Mayhem",
-        "gameroot": "/gm/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/gm/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Fancy Pants Adventures",
-        "gameroot": "/fp/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/fp/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "The Fancy Pants Adventure World 2",
-        "gameroot": "/fp2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/fp2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Drive Mad",
-        "gameroot": "/Drive/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/Drive/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Roblox - Now.gg",
-        "gameroot": "/rx/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/rx/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Plants VS Zombies",
-        "gameroot": "/pvz/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/pvz/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Geometry Dash",
-        "gameroot": "/gd/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/gd/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Terraria",
-        "gameroot": "/t/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/t/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Getting over it",
-        "gameroot": "/goi/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/goi/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Paper Minecraft",
-        "gameroot": "/pm/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/pm/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Moto x3m",
-        "gameroot": "/m/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/m/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "splash.jpg"
     },
     {
         "game": "Moto x3m - Winter",
-        "gameroot": "/mw/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/mw/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "download.jpeg"
     },
     {
         "game": "Moto x3m - Spooky",
-        "gameroot": "/ms/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/ms/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "splash.jpeg"
     },
     {
         "game": "Moto x3m - Pool Party",
-        "gameroot": "/mp/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/mp/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "splash.jpg"
     },
     {
         "game": "Vex 6",
-        "gameroot": "/v6/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/v6/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "icon.png"
     },
     {
         "game": "Vex 7",
-        "gameroot": "/v7/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/v7/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "icon.png"
     },
     {
         "game": "Among Us",
-        "gameroot": "/au/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/au/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "game.jpg"
     },
     {
         "game": "Toss the Turtle",
-        "gameroot": "/ttt/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/ttt/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Learn to Fly",
-        "gameroot": "/ltf/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/ltf/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Learn to Fly 2",
-        "gameroot": "/ltf2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/ltf2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Doge Miner",
-        "gameroot": "/dogem/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/dogem/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "game.png"
     },
     {
         "game": "Trimps",
-        "gameroot": "/tr/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/tr/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Basket Random",
-        "gameroot": "/br/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/br/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "splash.jpeg"
     },
     {
         "game": "Impossible Quiz",
-        "gameroot": "/iq/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/iq/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Rooftop Snipers",
-        "gameroot": "/rs/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/rs/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Getaway Shootout",
-        "gameroot": "/gs/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/gs/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Basketball Stars",
-        "gameroot": "/bs/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/bs/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Papas Pizzeria",
-        "gameroot": "/pp/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/pp/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Funny Shooter 2",
-        "gameroot": "/fs2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/fs2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "logo.png"
     },
     {
         "game": "Happy Wheels",
-        "gameroot": "/hw/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/hw/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "b.png"
     },
     {
         "game": "Raft Wars",
-        "gameroot": "/rw/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/rw/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },    
     {
          "game": "BitCoin Clicker",
-        "gameroot": "/bc/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/bc/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Idle Breakout",
-       "gameroot": "/ib/",
-       "gamefile": "index.html",
+       "gameroot": "https://files-aiw.pages.dev/ib/",
+       "gamefile": "https://files-aiw.pages.dev/index.html",
        "gameicon": "gameicon.png"
    },
    {
         "game": "Stick Man Hook",
-        "gameroot": "/smh/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/smh/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "unnamed.jpg"
     },
     {
         "game": "Tiny Fishing",
-        "gameroot": "/tf/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/tf/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Tunnel Rush",
-        "gameroot": "/trush/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/trush/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Raft Wars 2",
-        "gameroot": "/rw2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/rw2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Elastic Face",
-        "gameroot": "/elastic/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/elastic/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Avatar Arena",
-        "gameroot": "/aa/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/aa/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Dodge",
-        "gameroot": "/dodge/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/dodge/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "dodge.png"
     },
     {
         "game": "Tetris",
-        "gameroot": "/tet/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/tet/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Bitlife",
-        "gameroot": "/bl/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/bl/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "logo.png"
     },
     {
         "game": "Duck Life",
-        "gameroot": "/dl1/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/dl1/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     },
     {
         "game": "Duck Life 2",
-        "gameroot": "/dl2/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/dl2/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.jpg"
     },
     {
         "game": "Nut Simulator",
-        "gameroot": "/ns/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/ns/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "icon.png"
     },
     {
         "game": "Algebra Jump",
-        "gameroot": "/aj/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/aj/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "roblox.gif"
     },
     {
         "game": "Doodle Jump",
-        "gameroot": "/dj/",
-        "gamefile": "index.html",
+        "gameroot": "https://files-aiw.pages.dev/dj/",
+        "gamefile": "https://files-aiw.pages.dev/index.html",
         "gameicon": "gameicon.png"
     }
 ]
